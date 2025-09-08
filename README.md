@@ -1,0 +1,1 @@
+Project for Pneumonia detection from chest x-ray

@@ -1,0 +1,21 @@
+# Ignore dataset files
+data/
+*.zip
+*.tar
+
+# Ignore virtual environments
+venv/
+env/
+.pneumonia/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Ignore model weights
+models/
+*.h5
+*.pkl
+
+# Ignore temporary files
+.DS_Store
