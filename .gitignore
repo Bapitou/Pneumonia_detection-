@@ -4,6 +4,9 @@ data/
 *.tar
 
 # Ignore virtual environments
+.venv_pneumo/
+.venv/
+.venv*/
 venv/
 env/
 .pneumonia/

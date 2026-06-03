@@ -1,0 +1,16 @@
+# Data & visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+# Images
+opencv-python
+
+# Deep learning
+tensorflow
+scikit-learn
+
+# Notebook
+jupyter
+ipykernel
